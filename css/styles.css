@@ -100,7 +100,12 @@ img {
 /* Перша секція start */
 
 .section-one {
+  background-image: url("../images/hero-back.jpg");
   background-color: #2e2f42;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
   padding: 188px 0;
 }
 .section-one .container {
